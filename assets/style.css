@@ -83,6 +83,8 @@ body {
 	font-weight: 800;
 	font-style: italic;
 	width: 60%;
+    font-size: 1rem;
+    margin: 0 0 8px 0;
 }
 #about-me p {
 	width: 80%;
@@ -256,8 +258,6 @@ input[type="submit"] {
 	}
 	#about-me h3, #about-me p {
 		width: 100%;
-		font-size: 1rem;
-		margin: 0 0 8px 0;
 	}
 }
 
