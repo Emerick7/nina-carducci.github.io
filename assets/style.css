@@ -245,6 +245,12 @@ input[type="submit"] {
 	padding: .5em 1em
 }
 
+.adress {
+	position: relative;
+	padding: 24px 12px 24px 12px;
+	z-index: 2;
+}
+
 @media all and (max-width: 1180px) {
 	.picture {
 		flex : 2;
